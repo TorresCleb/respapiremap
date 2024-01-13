@@ -1,0 +1,46 @@
+{
+  "representantes": [
+    {
+      "id": "1",
+      "primeiro_nome": "genilson",
+      "departamento": "engenheiro",
+      "habilitacao": "Moto, lvc, auto",
+      "equipamentos": "genius"
+    }
+  ],
+  
+    "servicos": [
+    {
+       "id": 1,
+       "cliente": "",
+       "veiculo": "",
+       "representante:": "",
+        "TME:": "",
+        "custo:": "",
+        "pedido:": "",
+        "envio:": "",
+        "finalização:": ""
+    }        
+    ],
+    "clientes": [
+    {
+        "id": 1,
+        "nome_completo": "",
+        "CPF": "",
+        "Telefone": "",
+        "Cidade": "",
+        "Estado": ""
+    }
+    ],
+    "veiculos":[
+    {
+        "categoria": 1,
+        "modelo": "",
+        "marca": "",
+        "placa": "",
+        "ano": ""
+    }
+    ]
+    }
+
+
