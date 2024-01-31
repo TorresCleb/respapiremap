@@ -34,13 +34,25 @@
     ],
     "veiculos":[
     {
-        "categoria": 1,
+        "id": 1,
+        "categoria": "",
         "modelo": "",
         "marca": "",
         "placa": "",
         "ano": ""
     }
-    ]
+    ],
+    
+    "loja":[
+      {
+          "id": 1,
+          "pedal": "",
+          "downpipe": "",
+          "filtro": "",
+          "cabo": "",
+          "outros": ""
+      }
+      ]
     }
 
 
