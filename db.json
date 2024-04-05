@@ -3,9 +3,16 @@
     {
       "id": "1",
       "primeiro_nome": "genilson",
+      "email": "",
+      "data_nascimento":"",
+      "CPF_representante":"",
+      "endereco_representante":"",
       "departamento": "engenheiro",
-      "habilitacao": "Moto, lvc, auto",
-      "equipamentos": "genius"
+      "habilitacao": "",
+      "equipamentos": "",
+      "admissao":"",
+      "senha" :"",
+      "dados_bancarios": ""
     }
   ],
   
